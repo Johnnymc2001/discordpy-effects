@@ -1,4 +1,4 @@
-#Effect List:
+# Effect List:```
 + airhorn_1 - [3.1s]
 + alert - [0.8s]
 + allahu_akbar - [1.5s]
@@ -151,3 +151,4 @@
 + you_shall_not_pass - [4.3s]
 + you_shall_pass - [3.7s]
 + ZG_laugh - [14.0s]
+```
