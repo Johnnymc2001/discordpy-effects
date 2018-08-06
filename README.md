@@ -1,3 +1,4 @@
+#Effect List:
 + airhorn_1 - [3.1s]
 + alert - [0.8s]
 + allahu_akbar - [1.5s]
