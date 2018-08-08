@@ -1,4 +1,4 @@
-# Effect List:
+# ------- Effect List -------
 [My Discord Room](http://discord.gg/vcdEWRt)
 ### Use >eff [effectname]
 
