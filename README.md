@@ -20,7 +20,7 @@
 + r6s_hostagedown_ct - [1.6s]
 + r6s_hostagedown_t - [2.2s]
 + r6s_hostagefail - [2.7s]
-+ r6s_hostage_not_found - [1.4s]
++ r6s_hostage_unknow - [1.4s]
 + r6s_lion_scan - [8.2s]
 + r6s_ready_to_engage - [1.4s]
 ```
