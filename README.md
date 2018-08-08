@@ -2,7 +2,7 @@
 [My Discord Room](http://discord.gg/vcdEWRt)
 ### Use >eff [effectname]
 
-### Rainbow Six Seige Sound Effect
+### Rainbow Six Seige Sound Effect20
 ```+ r6s_10s - [1.1s]
 + r6s_15s - [1.3s]
 + r6s_5s - [0.9s]
@@ -24,7 +24,7 @@
 + r6s_lion_scan - [8.2s]
 + r6s_ready_to_engage - [1.4s]
 ```
-### Cartoon Sound Effect
+### Cartoon Sound Effect15
 ```+ cartoon_boing1 - [0.5s]
 + cartoon_boing2 - [1.1s]
 + cartoon_boing3 - [2.1s]
@@ -41,7 +41,7 @@
 + cartoon_tire_screech - [1.4s]
 + cartoon_transition - [1.5s]
 ```
-### Others Sound Effect
+### Others Sound Effect136
 ```+ airhorn_1 - [3.1s]
 + alert - [0.8s]
 + allahu_akbar - [1.5s]
