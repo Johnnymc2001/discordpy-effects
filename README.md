@@ -41,7 +41,7 @@
 + cartoon_tire_screech - [1.4s]
 + cartoon_transition - [1.5s]
 ```
-# Others Sound Effect [192]
+# Others Sound Effect [191]
 ```+ adu - [0.9s]
 + afewinchlater - [1.6s]
 + afewmomentlater - [2.2s]
@@ -205,7 +205,6 @@
 + tobecontinued - [7.4s]
 + toinfinity - [3.3s]
 + troidu - [0.9s]
-+ trololol - [24.6s]
 + typing - [4.6s]
 + ugh - [0.8s]
 + ugh2 - [4.9s]
