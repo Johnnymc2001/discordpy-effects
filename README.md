@@ -1,5 +1,5 @@
 # ------- Effect List -------
-[My Discord Room](http://discord.gg/vcdEWRt)
+[My Discord Room](http://discord.gg/MfZ7Peu)
 ### Use >eff [effectname]
 
 # Rainbow Six Seige Sound Effect [21]
@@ -42,7 +42,7 @@
 + cartoon_tire_screech - [1.4s]
 + cartoon_transition - [1.5s]
 ```
-# Others Sound Effect [208]
+# Others Sound Effect [212]
 ```+ adu - [0.9s]
 + afewinchlater - [1.6s]
 + afewmomentlater - [2.2s]
@@ -90,7 +90,7 @@
 + fuuu - [2.7s]
 + getoverhere - [2.2s]
 + gibberish - [2.7s]
-+ good - [26.9s]
++ good - [6.5s]
 + haha1 - [1.2s]
 + haha2 - [4.5s]
 + hahgay - [3.3s]
@@ -144,6 +144,7 @@
 + mylifeisalie - [2.8s]
 + nani - [5.5s]
 + nein - [3.2s]
++ ngu - [1.6s]
 + nico - [2.0s]
 + nogodpls - [9.7s]
 + nope.avi - [0.4s]
@@ -215,6 +216,7 @@
 + toasty - [0.8s]
 + tobecontinued - [7.4s]
 + toinfinity - [3.3s]
++ traitim - [22.7s]
 + troidu - [0.9s]
 + trololol - [24.6s]
 + typing - [4.6s]
@@ -223,6 +225,8 @@
 + uuuuaaaa - [5.4s]
 + victory - [5.0s]
 + vinegunshot - [1.3s]
++ vuong1 - [1.7s]
++ vuong2 - [1.8s]
 + wam - [5.1s]
 + warning - [5.0s]
 + wasted - [7.9s]
